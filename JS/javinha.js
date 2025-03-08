@@ -1,5 +1,5 @@
 document.getElementById("surpresa").addEventListener("click", function() {
-    alert("Você é incrível! Nunca se esqueça disso! 💖");
+ 
 });
 document.addEventListener("DOMContentLoaded", function () {
     let botao = document.getElementById("surpresa");
